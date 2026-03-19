@@ -22,7 +22,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [Project 1 Title]([project_1_link](https://github.com/rftecpro-ai/catch-the-cat-game))
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
