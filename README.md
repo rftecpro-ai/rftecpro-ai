@@ -26,7 +26,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ![Project 1 Screenshot](https://github.com/user-attachments/assets/d62a4d7a-5870-4608-b006-518d4929def6)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](https://github.com/rftecpro-ai/catch-the-cat-game).
 
 ### [Project 2 Title](project_2_link)
 
