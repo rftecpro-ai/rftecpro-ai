@@ -6,8 +6,6 @@ I’m a Cloud & Platform Engineer with 15+ years of experience designing, modern
 
 My background spans Azure, Google Cloud, Kubernetes, Infrastructure as Code, DevOps, Platform Engineering, Cloud Cost Optimization (FinOps), and AI infrastructure.
 
-I've helped organizations modernize mission-critical environments across financial services and consulting, working with global companies including RBC, Scotiabank, Citrix, Slalom, and RAVL.
-
 I'm focused on building scalable cloud platforms that enable secure, reliable, and cost-efficient AI workloads.
 
 ---
