@@ -8,7 +8,7 @@ My background spans Azure, Google Cloud, Kubernetes, Infrastructure as Code, Dev
 
 I've helped organizations modernize mission-critical environments across financial services and consulting, working with global companies including RBC, Scotiabank, Citrix, Slalom, and RAVL.
 
-Today I'm focused on building scalable cloud platforms that enable secure, reliable, and cost-efficient AI workloads.
+I'm focused on building scalable cloud platforms that enable secure, reliable, and cost-efficient AI workloads.
 
 ---
 
