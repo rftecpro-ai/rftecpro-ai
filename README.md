@@ -1,42 +1,120 @@
-## Hi there 👋
+# Hi, I'm Fabio Ribeiro 👋
 
-## About Me 🚀
+## Cloud Architect | Platform Engineer | DevOps | AI Infrastructure
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I’m a Cloud & Platform Engineer with 15+ years of experience designing, modernizing, and operating enterprise cloud platforms.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+My background spans Azure, Google Cloud, Kubernetes, Infrastructure as Code, DevOps, Platform Engineering, Cloud Cost Optimization (FinOps), and AI infrastructure.
 
-## My Skills 🧠
+I've helped organizations modernize mission-critical environments across financial services and consulting, working with global companies including RBC, Scotiabank, Citrix, Slalom, and RAVL.
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+Today I'm focused on building scalable cloud platforms that enable secure, reliable, and cost-efficient AI workloads.
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+---
 
-## Featured Projects 💻
+## 🚀 What I'm currently working on
 
-### [Project 1 Title](https://github.com/rftecpro-ai/catch-the-cat-game)
+- 🤖 AI Platform Engineering
+- ☁️ Google Cloud Platform (GCP)
+- ☸️ Kubernetes (GKE & AKS)
+- 💰 FinOps & Cloud Cost Optimization
+- 🏗️ Platform Engineering
+- 🔐 Cloud Security & Governance
+- 🧠 Learning more about LLM architectures, MCP, Agentic AI and AI Gateways
 
-![Project 1 Screenshot](https://github.com/user-attachments/assets/d62a4d7a-5870-4608-b006-518d4929def6)
+---
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](https://github.com/rftecpro-ai/catch-the-cat-game).
+## 🛠️ Technical Skills
 
-### [Project 2 Title](project_2_link)
+### Cloud
 
-![Project 2 Screenshot](project_2_screenshot_url)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+### Containers & Orchestration
 
-## Get in Touch 📬
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+### Infrastructure as Code
 
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+
+### DevOps
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+### AI & Data
+
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge)
+
+### Languages
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+
+---
+
+## 💼 Professional Highlights
+
+- Designed enterprise cloud platforms on Azure and Google Cloud
+- Led cloud modernization and migration initiatives
+- Built Kubernetes platforms for production workloads
+- Implemented Infrastructure as Code using Terraform
+- Delivered enterprise CI/CD pipelines
+- Designed cloud governance and security solutions
+- Worked with Platform Engineering and AI enablement initiatives
+- Passionate about helping organizations reduce cloud costs while increasing reliability
+
+---
+
+# Featured Projects
+
+## 🎮 Catch The Cat Game
+
+Repository:
+https://github.com/rftecpro-ai/catch-the-cat-game
+
+A browser game built with JavaScript demonstrating DOM manipulation, event handling and responsive UI.
+
+**Skills demonstrated**
+
+- JavaScript
+- HTML
+- CSS
+- UI Design
+- Game Logic
+
+---
+
+## 🚀 More projects coming soon
+
+I'm currently working on publishing projects focused on:
+
+- Terraform modules
+- Kubernetes
+- Azure architecture
+- GCP architecture
+- AI Platform examples
+- GitHub Actions
+- DevOps automation
+- FinOps dashboards
+
+---
+
+## 📈 GitHub Stats
+
+![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=rftecpro-ai&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rftecpro-ai&layout=compact)
+
+---
+
+## 🌎 Connect with me
+
+- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+- 📧 Email: YOUR_EMAIL
