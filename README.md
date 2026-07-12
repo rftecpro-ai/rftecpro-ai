@@ -6,6 +6,8 @@ I’m a Cloud & Platform Engineer with 15+ years of experience designing, modern
 
 My background spans Azure, Google Cloud, Kubernetes, Infrastructure as Code, DevOps, Platform Engineering, Cloud Cost Optimization (FinOps), and AI infrastructure.
 
+I've helped organizations modernize mission-critical environments across financial services and consulting, working with global companies including RBC, Scotiabank, Citrix, Slalom, and RAVL.
+
 Today I'm focused on building scalable cloud platforms that enable secure, reliable, and cost-efficient AI workloads.
 
 ---
@@ -24,33 +26,35 @@ Today I'm focused on building scalable cloud platforms that enable secure, relia
 
 ## 🛠️ Technical Skills
 
-### Cloud
+### ☁️ Cloud
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### Containers & Orchestration
+### ☸️ Containers & Orchestration
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Infrastructure as Code
+### 🏗️ Infrastructure as Code
 
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-### DevOps
+### 🚀 DevOps
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
-### AI & Data
+### 🤖 AI & Data
 
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge)
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge)
 
-### Languages
+### 💻 Languages & Scripting
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
@@ -62,7 +66,7 @@ Today I'm focused on building scalable cloud platforms that enable secure, relia
 - Designed enterprise cloud platforms on Azure and Google Cloud
 - Led cloud modernization and migration initiatives
 - Built Kubernetes platforms for production workloads
-- Implemented Infrastructure as Code using Terraform
+- Implemented Infrastructure as Code using Terraform and Ansible
 - Delivered enterprise CI/CD pipelines
 - Designed cloud governance and security solutions
 - Worked with Platform Engineering and AI enablement initiatives
@@ -70,49 +74,52 @@ Today I'm focused on building scalable cloud platforms that enable secure, relia
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
 ## 🎮 Catch The Cat Game
 
-Repository:
+**Repository**
+
 https://github.com/rftecpro-ai/catch-the-cat-game
 
-A browser game built with JavaScript demonstrating DOM manipulation, event handling and responsive UI.
+A browser game built with JavaScript demonstrating DOM manipulation, event handling, and responsive UI.
 
 **Skills demonstrated**
 
 - JavaScript
 - HTML
 - CSS
-- UI Design
+- Responsive Design
 - Game Logic
 
 ---
 
-## 🚀 More projects coming soon
+## 🚧 More projects coming soon
 
 I'm currently working on publishing projects focused on:
 
 - Terraform modules
-- Kubernetes
-- Azure architecture
-- GCP architecture
-- AI Platform examples
+- Azure Landing Zones
+- Google Cloud (GCP)
+- Kubernetes (AKS & GKE)
+- AI Platform Reference Architectures
 - GitHub Actions
-- DevOps automation
-- FinOps dashboards
+- Azure DevOps Pipelines
+- DevOps Automation
+- FinOps
+- Platform Engineering
 
 ---
 
 ## 📈 GitHub Stats
 
-![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=rftecpro-ai&show_icons=true)
+![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=rftecpro-ai&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rftecpro-ai&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rftecpro-ai&layout=compact&theme=transparent)
 
 ---
 
-## 🌎 Connect with me
+## 🌎 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-- 📧 Email: YOUR_EMAIL
+💼 LinkedIn  
+https://www.linkedin.com/in/fabio-ribeiro-b337538/
