@@ -111,10 +111,9 @@ I'm currently working on publishing projects focused on:
 
 ## 📈 GitHub Stats
 
-![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=rftecpro-ai&show_icons=true&theme=transparent)
+![Fabio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rftecpro-ai&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rftecpro-ai&layout=compact&theme=transparent)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rftecpro-ai&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
