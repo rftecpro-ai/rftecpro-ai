@@ -2,23 +2,19 @@
 
 ## Cloud Architect | Platform Engineer | DevOps | AI Infrastructure
 
-I’m a Cloud & Platform Engineer with 15+ years of experience designing, modernizing, and operating enterprise cloud platforms.
+I'm a Cloud & Platform Engineer with 15+ years of experience designing, modernizing, and operating enterprise cloud platforms.
 
-My background spans Azure, Google Cloud, Kubernetes, Infrastructure as Code, DevOps, Platform Engineering, Cloud Cost Optimization (FinOps), and AI infrastructure.
-
-I'm focused on building scalable cloud platforms that enable secure, reliable, and cost-efficient AI workloads.
+My background spans Azure, Google Cloud, Kubernetes, Infrastructure as Code, DevOps, Platform Engineering, Cloud Cost Optimization (FinOps), and AI infrastructure. Lately I'm digging into LLM architectures, MCP, and agentic AI tooling — see `mcp-tutorial` below.
 
 ---
 
-## 🚀 What I'm currently working on
+## 🚀 Currently focused on
 
-- 🤖 AI Platform Engineering
-- ☁️ Google Cloud Platform (GCP)
-- ☸️ Kubernetes (GKE & AKS)
-- 💰 FinOps & Cloud Cost Optimization
-- 🏗️ Platform Engineering
-- 🔐 Cloud Security & Governance
-- 🧠 Learning more about LLM architectures, MCP, Agentic AI and AI Gateways
+- ☸️ Kubernetes platform patterns (GKE & AKS) — Kustomize, Helm, and GitOps delivery models
+- 🔁 GitOps and CI/CD pipeline design (GitHub Actions, ArgoCD)
+- 💰 FinOps & cloud cost optimization
+- 🔐 Cloud security & governance
+- 🧠 MCP, agentic AI, and AI gateway architectures
 
 ---
 
@@ -33,6 +29,7 @@ I'm focused on building scalable cloud platforms that enable secure, reliable, a
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
 ### 🏗️ Infrastructure as Code
 
@@ -48,7 +45,6 @@ I'm focused on building scalable cloud platforms that enable secure, reliable, a
 
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge)
 
 ### 💻 Languages & Scripting
 
@@ -67,45 +63,29 @@ I'm focused on building scalable cloud platforms that enable secure, reliable, a
 - Implemented Infrastructure as Code using Terraform and Ansible
 - Delivered enterprise CI/CD pipelines
 - Designed cloud governance and security solutions
-- Worked with Platform Engineering and AI enablement initiatives
 - Passionate about helping organizations reduce cloud costs while increasing reliability
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🎮 Catch The Cat Game
+### GitOps deployment patterns for Kubernetes
 
-**Repository**
+Three variations on shipping a containerized app to Kubernetes via GitHub Actions CI and ArgoCD, each demonstrating a different manifest-management approach:
 
-https://github.com/rftecpro-ai/catch-the-cat-game
+| Repo | Pattern |
+|---|---|
+| [python-webapp-template](https://github.com/rftecpro-ai/python-webapp-template) | Kustomize base + overlays, single repo |
+| [python-webapp-helm-template](https://github.com/rftecpro-ai/python-webapp-helm-template) | Helm chart, single repo |
+| [python-webapp-ci-template](https://github.com/rftecpro-ai/python-webapp-ci-template) + [python-webapp-ci-template-gitops](https://github.com/rftecpro-ai/python-webapp-ci-template-gitops) | Split app/GitOps repos, Kustomize base + overlays |
 
-A browser game built with JavaScript demonstrating DOM manipulation, event handling, and responsive UI.
+Each includes a documented release process (branch → version bump → PR → merge) and a separate, deliberate prod-promotion flow.
 
-**Skills demonstrated**
+**Skills demonstrated:** Kubernetes, Kustomize, Helm, ArgoCD, GitHub Actions, Docker multi-arch builds, GitOps
 
-- JavaScript
-- HTML
-- CSS
-- Responsive Design
-- Game Logic
+### 🎮 Catch The Cat Game
 
----
-
-## 🚧 More projects coming soon
-
-I'm currently working on publishing projects focused on:
-
-- Terraform modules
-- Azure Landing Zones
-- Google Cloud (GCP)
-- Kubernetes (AKS & GKE)
-- AI Platform Reference Architectures
-- GitHub Actions
-- Azure DevOps Pipelines
-- DevOps Automation
-- FinOps
-- Platform Engineering
+A small browser game ([repo](https://github.com/rftecpro-ai/catch-the-cat-game)) — JavaScript, DOM manipulation, event handling, responsive UI.
 
 ---
 
@@ -119,5 +99,5 @@ I'm currently working on publishing projects focused on:
 
 ## 🌎 Connect with Me
 
-💼 LinkedIn  
+💼 LinkedIn
 https://www.linkedin.com/in/fabio-ribeiro-b337538/
