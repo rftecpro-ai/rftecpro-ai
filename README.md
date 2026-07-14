@@ -83,10 +83,6 @@ Each includes a documented release process (branch → version bump → PR → m
 
 **Skills demonstrated:** Kubernetes, Kustomize, Helm, ArgoCD, GitHub Actions, Docker multi-arch builds, GitOps
 
-### 🎮 Catch The Cat Game
-
-A small browser game ([repo](https://github.com/rftecpro-ai/catch-the-cat-game)) — JavaScript, DOM manipulation, event handling, responsive UI.
-
 ---
 
 ## 📈 GitHub Stats
