@@ -6,6 +6,8 @@ I'm a Cloud & Platform Engineer with 15+ years of experience designing, moderniz
 
 My background spans Azure, Google Cloud, Kubernetes, Infrastructure as Code, DevOps, Platform Engineering, Cloud Cost Optimization (FinOps), and AI infrastructure. Lately I'm digging into LLM architectures, MCP, and agentic AI tooling — see `mcp-tutorial` below.
 
+https://github.com/rftecpro-ai/mcp-tutorial
+
 ---
 
 ## 🚀 Currently focused on
