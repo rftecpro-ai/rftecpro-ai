@@ -15,7 +15,9 @@
 
 I'm a Cloud & Platform Engineer with 15+ years of experience designing, automating, and operating enterprise-scale infrastructure platforms.
 
-My background spans **cloud architecture, Kubernetes platforms, Infrastructure as Code, DevOps automation, CI/CD engineering, cloud governance, and platform engineering** across Azure and Google Cloud.
+My background spans **Azure cloud architecture, Kubernetes platforms, Infrastructure as Code, DevOps automation, CI/CD engineering, cloud governance, and platform engineering**.
+
+I have extensive experience designing and implementing **Azure-based solutions**, including cloud migrations, infrastructure automation, Kubernetes platforms, CI/CD pipelines, and secure cloud operating models.
 
 Currently, I am focused on building and exploring **AI infrastructure patterns**, including **Model Context Protocol (MCP), agentic AI platforms, AI gateways, and cloud-native architectures for enterprise AI adoption**.
 
@@ -31,19 +33,21 @@ I enjoy designing platforms that enable developers to ship software faster while
 - LLM application architectures
 - AI gateway patterns
 - Enterprise AI platform concepts
+- Azure AI and Azure OpenAI architecture patterns
 
 ☸️ **Cloud Native Platforms**
 
-- Kubernetes platform engineering (GKE & AKS)
+- Kubernetes platform engineering with Azure Kubernetes Service (AKS)
 - GitOps delivery models with ArgoCD
 - Helm and Kustomize deployment patterns
 - Internal Developer Platform concepts
+- Container platform automation
 
 💰 **Cloud Optimization & Governance**
 
 - FinOps practices
-- Cloud cost optimization
-- Security and governance frameworks
+- Azure cost optimization
+- Cloud security and governance frameworks
 - Automated infrastructure management
 
 ---
@@ -90,38 +94,49 @@ Reference implementations demonstrating different approaches for deploying conta
 
 # 🏗️ Areas of Interest
 
-☁️ Cloud Architecture  
+☁️ Azure Cloud Architecture  
 ☸️ Kubernetes Platform Engineering  
 🔄 GitOps & CI/CD Automation  
 🏗 Infrastructure as Code  
 🤖 AI Infrastructure & Agentic AI  
 🔐 Cloud Security & Governance  
-💰 FinOps & Cloud Optimization  
+💰 FinOps & Azure Cost Optimization  
 🚀 Internal Developer Platforms  
 
 ---
 
 # 🛠️ Technology Stack
 
-## ☁️ Cloud Platforms
+## ☁️ Cloud Platform
 
-Azure • Google Cloud
+Microsoft Azure
+
+- Azure Kubernetes Service (AKS)
+- Azure Virtual Machines
+- Azure App Services
+- Azure Storage
+- Azure SQL
+- Azure Monitor
+- Azure Networking
+- Azure Key Vault
+- Azure Landing Zones
+- Azure Well-Architected Framework
 
 ## ☸️ Containers & Platform Engineering
 
-Kubernetes • Docker • ArgoCD • Helm • Kustomize
+Kubernetes • Docker • Azure Kubernetes Service (AKS) • ArgoCD • Helm • Kustomize
 
 ## 🏗 Infrastructure as Code
 
-Terraform • Ansible
+Terraform • Ansible • Infrastructure as Code (IaC)
 
 ## 🔄 CI/CD & Automation
 
-GitHub Actions • Azure DevOps • YAML
+GitHub Actions • Azure DevOps • YAML • CI/CD Pipelines
 
-## 🤖 AI & Data Platforms
+## 🤖 AI & Cloud Platforms
 
-Vertex AI • Databricks • MCP • LLM Infrastructure
+Azure AI Services • Azure OpenAI • MCP • LLM Infrastructure • AI Gateway Patterns
 
 ## 💻 Languages & Scripting
 
@@ -131,13 +146,14 @@ Python • PowerShell • Bash
 
 # 💼 Professional Highlights
 
-- Designed and implemented enterprise cloud platforms on Azure and Google Cloud.
+- Designed and implemented enterprise Azure cloud platforms.
 - Built Kubernetes platforms using Infrastructure as Code and GitOps methodologies.
 - Led cloud modernization and migration initiatives.
 - Automated infrastructure provisioning with Terraform and Ansible.
 - Designed enterprise CI/CD pipelines using GitHub Actions and Azure DevOps.
 - Implemented cloud governance, security, and operational best practices.
-- Helped organizations improve reliability while optimizing cloud costs.
+- Built automation solutions that improve developer productivity and platform reliability.
+- Helped organizations optimize cloud operations and reduce infrastructure complexity.
 
 ---
 
@@ -163,6 +179,7 @@ The best platforms empower engineering teams to focus on delivering value instea
 - Kubernetes platform engineering
 - AI security and governance
 - Cloud-native architecture patterns
+- Azure AI capabilities
 
 ---
 
