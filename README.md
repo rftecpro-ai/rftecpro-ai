@@ -183,14 +183,6 @@ The best platforms empower engineering teams to focus on delivering value instea
 
 ---
 
-# 📊 GitHub Stats
-
-![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=rftecpro-ai&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rftecpro-ai&layout=compact)
-
----
-
 # 🌎 Let's Connect
 
 <div align="center">
