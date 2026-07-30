@@ -60,27 +60,30 @@ A hands-on repository exploring **Model Context Protocol (MCP)**, AI tools integ
 
 Repository:
 
-https://github.com/rftecpro-ai/mcp-tutorial
-
+🔗 https://github.com/rftecpro-ai/mcp-tutorial
 
 ---
 
 ## ☸️ Kubernetes GitOps Deployment Patterns
 
-Reference implementations demonstrating different approaches for deploying containerized applications to Kubernetes using modern GitOps practices.
+Reference implementations demonstrating different approaches for deploying containerized applications to Kubernetes using modern cloud-native practices.
 
-| Repository | Pattern |
+| Repository | Description |
 |---|---|
-| python-webapp-template | Kustomize base + overlays |
-| python-webapp-helm-template | Helm-based deployment |
-| python-webapp-ci-template + GitOps repository | Application and deployment separation |
+| [python-webapp-template](https://github.com/rftecpro-ai/python-webapp-template) | Python web application template with containerization foundation |
+| [python-webapp-helm-template](https://github.com/rftecpro-ai/python-webapp-helm-template) | Kubernetes deployment using reusable Helm charts |
+| [python-webapp-ci-template](https://github.com/rftecpro-ai/python-webapp-ci-template) | Reusable CI/CD workflows for building, testing, scanning, and publishing container images |
+| [python-webapp-ci-template-gitops](https://github.com/rftecpro-ai/python-webapp-ci-template-gitops) | GitOps repository managing Kubernetes deployments and environment configurations |
 
 **Demonstrates**
 
-- Kubernetes deployments
-- GitHub Actions CI/CD
+- Kubernetes application deployment patterns
+- GitHub Actions CI/CD automation
 - Docker multi-architecture builds
+- Container image security scanning
+- Helm-based deployments
 - ArgoCD GitOps workflows
+- Application and deployment repository separation
 - Environment promotion strategies
 
 ---
